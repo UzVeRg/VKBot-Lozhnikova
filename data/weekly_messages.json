@@ -1,0 +1,14 @@
+[
+    {
+        "id": "weekly_wednesday",
+        "weekday": "wednesday",
+        "text": "WED",
+        "enabled": true
+    },
+    {
+        "id": "weekly_saturday",
+        "weekday": "saturday",
+        "text": "SAT",
+        "enabled": true
+    }
+]
